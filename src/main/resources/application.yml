@@ -2,4 +2,4 @@ spring:
   application:
     name: ServiceDiscovery
   profiles:
-    active: local
+    active: dev
